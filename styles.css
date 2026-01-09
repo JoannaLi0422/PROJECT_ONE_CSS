@@ -25,3 +25,10 @@ p{
 ul{
     list-style: circle inside
 }
+.position{
+    text-align: right;
+}
+.email{
+    font-family: didot;
+    text-align: right;
+}
