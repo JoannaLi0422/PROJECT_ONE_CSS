@@ -32,3 +32,14 @@ ul{
     font-family: didot;
     text-align: right;
 }
+.ins{
+    font-family: didot;
+    text-align: left;
+}
+.contact{
+     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 10px 20px;
+}
